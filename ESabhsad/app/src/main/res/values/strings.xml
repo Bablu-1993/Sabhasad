@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sabhasd</string>
+
+    <string name="mobile_no">+91</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+    <string-array name="admin_menu">
+        <item>  मेरा प्रोफाइल</item>
+        <item> गैलरी </item>
+        <item> सहयोगी से बात करे </item>
+        <item> सहयोगी </item>
+
+    </string-array>
+
+</resources>
